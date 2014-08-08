@@ -36,7 +36,6 @@ ul {
 
 #join {
 	background-color: #CAD8E8;
-	text-align: center;
 	overflow: auto;
 	clear: both;
 	}
@@ -50,6 +49,7 @@ ul {
 article {
 	background-color: #ACBCE8;
 }
+
   
 p {
 	font-size: 14px;
